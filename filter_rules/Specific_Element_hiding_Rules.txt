@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 2.7.1]
 !------------------------Specific element hiding rules------------------------!
 ! *** easylist:easylist/easylist_specific_hide.txt ***
 search.safefinder.com,search.snapdo.com###ABottomD
